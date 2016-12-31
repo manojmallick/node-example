@@ -1,3 +1,4 @@
+var jshint=require('gulp-jshint');
 module.exports = function(grunt) {
 
   grunt.initConfig({
