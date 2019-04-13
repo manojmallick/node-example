@@ -1,1 +1,1 @@
-# node-example
+# node-example-sample
